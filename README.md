@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shihab11](https://github.com/shihab11)  
 - 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me **office@shihabchowdhury.com**
+- 📫 How to reach me DM on LinkedIn
 
 ---
 
